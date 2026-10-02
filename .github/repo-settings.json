@@ -1,0 +1,13 @@
+{
+  "description": "Agent workflows that call MCP servers such as Linear and Slack. One click into Ballet.",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "ai-agents",
+    "linear",
+    "slack",
+    "workflow-automation",
+    "playbook-templates",
+    "ballet"
+  ]
+}
